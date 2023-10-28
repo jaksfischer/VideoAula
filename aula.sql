@@ -42,7 +42,7 @@ INSERT INTO `usuario` (`id`, `nome`, `email`, `deleted_at`) VALUES
 (1, 'Joãozinho', 'joaozinho@aula.com.br', NULL),
 (2, 'Mariazinha', 'mariazinha@aula.com.br', NULL),
 (3, 'Ana Caroline', 'ana.c@aula.com.br', NULL),
-(4, 'Ana Julia', 'ana.j@aula.com.br', '0000-00-00 00:00:00');
+(4, 'Ana Julia', 'ana.j@aula.com.br', NULL);
 
 --
 -- Índices para tabelas despejadas
