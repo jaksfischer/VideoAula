@@ -28,3 +28,38 @@
 .container {
     margin-top: 5%;
 }
+
+/**
+* Edit
+*/
+
+.edit {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.edit .normal {
+    text-decoration: none;
+    color: #000;
+}
+
+.edit .normal:hover {
+    color: #4169E1;
+}
+
+.green {
+    color: green;
+}
+
+.green:hover {
+    color: darkgreen;
+}
+
+.red {
+    color: red;
+}
+
+.red:hover {
+    color: darkred;
+}
