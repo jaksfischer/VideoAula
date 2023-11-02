@@ -1,0 +1,30 @@
+/**
+* GENERAL CSS
+*/
+
+.menu {
+    list-style: none;
+    margin-left: 0px;
+}
+
+.menu .menu-item {
+    float: left;
+    margin-left: 1%;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000;
+}
+
+.menu a:hover {
+    color: #4169E1;
+}
+
+.menu .active {
+    color: #0000FF;
+}
+
+.container {
+    margin-top: 5%;
+}
